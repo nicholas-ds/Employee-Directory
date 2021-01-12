@@ -1,4 +1,4 @@
 # Employee Directory
-This is a simple web app that compiles user information into an employee 
+This is a simple web app that compiles user information from a random user API into an employee 
 directory. The user can click on any card and a modal window pops up that 
-displays in depth information on each employee. 
+displays more information for each employee. 
